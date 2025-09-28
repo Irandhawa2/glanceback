@@ -29,3 +29,16 @@ h1 {
   height: auto;
   border-radius: 8px; 
 }
+
+a {
+  color: rgb(119, 84, 1);
+  text-decoration: none; /* optional */
+}
+
+a:hover {
+  color: rgb(1, 11, 34); /* darker on hover for visibility */
+}
+
+a:visited {
+  color: rgb(1, 11, 34); /* slightly different visited color */
+}
